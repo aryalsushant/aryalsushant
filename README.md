@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryalsushant
-- 👀 I’m interested in Developing Web Applications
-- 🌱 I’m currently learning React and C++
+- 👀 I’m interested in Developing Innovative Applications
+- 🌱 I’m currently learning React Native and C++
 - 💞️ I’m looking to collaborate on fun and challenging projects
 
 <!---
