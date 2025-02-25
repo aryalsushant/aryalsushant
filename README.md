@@ -4,7 +4,7 @@ I'm a Computer Science and Mathematics student at the University of Southern Mis
 
 ## 🚀 About Me
 - 💻 AI Agent Developer at Klover AI
-- 🎓 CS & Math student (Class of 2026)
+- 🎓 CS & Math student (Class of 2027)
 - 🔭 Passionate about AI, ML, and building cool things
 - 🌐 Check out my [portfolio](https://aryalsushant.github.io)
 
