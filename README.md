@@ -1,17 +1,17 @@
 <h1 align="center">Hey there, I'm Sushant Aryal 👋</h1>
 <p align="center">
   <em>CS + Math @ USM • AI/ML Enthusiast • Educator • Builder of cool things</em><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=AI+Fellow+%7C+BreakThroughTech+%40+Cornell;Coding+Instructor+%7C+DHA+Summer+Camp;Building+Real+Stuff+%F0%9F%9A%80;Learning+Something+New+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=AI+Fellow+%7C+BreakThroughTech+%40+Cornell;Prioritizing+Creativity+%7C+In+Problem+Solving;Building+Real+Stuff+%F0%9F%9A%80;Learning+Something+New+Every+Day" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 📚 Honors Keystone Scholar at University of Southern Mississippi  
-- 💻 Teaching high schoolers Python @ Delta Health Alliance  
+- 📚 Computer Science at University of Southern Mississippi  
+- 💻 Interested in Full-stack Development, Machine Learning, and Agentic AI  
 - 🤖 AI/ML Fellow @ BreakThroughTech (Cornell Tech)  
-- 🚀 Built real-world apps using OpenAI, PayPal MCP, and more  
+- 🚀 Built real-world apps that won hackathons and funding  
 - 📫 Let’s connect — I'm always open to learning & collaborating!
 
 ---
@@ -54,18 +54,6 @@
 
 ---
 
-### ✨ Featured Projects
-
-- 🧾 **[PayPal Invoice Bot](https://github.com/aryalsushant/paypal-invoice-agent)**  
-  GPT-powered invoicing tool using PayPal’s Model Context Protocol (MCP)
-
-- 📊 **[Airbnb ML Classifier](https://github.com/aryalsushant/airbnb-ml)**  
-  Built a feature-selected KNN model to predict optimal Airbnb prices
-
-- 🎓 **[Python Crash Camp Curriculum](https://github.com/aryalsushant/python-crash-camp)**  
-  Complete coding bootcamp curriculum I taught to high schoolers
-
----
 
 ### 📈 GitHub Stats
 
@@ -78,8 +66,8 @@
 
 ### 🌱 Currently Exploring
 
-- 💬 LLM agents with tool-use (OpenAI, LangGraph)
-- 🧠 Custom AI tutors for students using Python + React
+- 💬 Data Structures and Algorithms using Python, Codepath TIP101
+- 🧠 Machine Learning Foundations Certification from Cornell University
 - 🛠️ Honing full-stack dev with Next.js + Tailwind
 
 ---
