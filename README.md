@@ -1,8 +1,9 @@
 <h1 align="center">Hey there, I'm Sushant Aryal 👋</h1>
 <p align="center">
   <em>CS + Math @ USM • AI/ML Enthusiast • Educator • Builder of cool things</em><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=AI+Fellow+%7C+BreakThroughTech+%40+Cornell;Prioritizing+Creativity+%7C+In+Problem+Solving;Building+Real+Stuff+%F0%9F%9A%80;Learning+Something+New+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=AI+Fellow+%7C+BreakThroughTech+%40+Cornell;Prioritizing+Creativity+in+Problem+Solving;Building+Real+Stuff+%F0%9F%9A%80;Learning+Something+New+Every+Day" alt="Typing SVG" />
 </p>
+
 
 ---
 
