@@ -67,8 +67,8 @@
 
 ### 🌱 Currently Exploring
 
-- 💬 Data Structures and Algorithms using Python, Codepath TIP101
-- 🧠 Machine Learning Foundations Certification from Cornell University
+- 💬 Data Structures and Algorithms using Python, Codepath TIP102
+- 🧠 AI Studio Project in collaboration with Cornell Tech & Partner Company
 - 🛠️ Honing full-stack dev with Next.js + Tailwind
 
 ---
