@@ -61,7 +61,7 @@
 
 - 💬 ML Research under Dr. Andrew Sung
 - 🧠 Participating in WiDS Datathon, Hacklytics 2025, and more
-- 🛠️ Looking for a Summer 2025 Internship (open to relocation)
+- 🛠️ Looking for a Summer 2026 Internship (open to relocation)
 
 ---
 
