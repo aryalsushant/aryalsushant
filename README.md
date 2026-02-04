@@ -9,10 +9,10 @@
 
 ### 🧑‍💻 About Me
 
-- 📚 Computer Science at University of Southern Mississippi  
-- 💻 Interested in Full-stack Development, Machine Learning, and Agentic AI  
-- 🤖 AI/ML Fellow @ BreakThroughTech (Cornell Tech)  
-- 🚀 Built real-world apps that won hackathons and funding  
+- 📚 CS Major, Economic Data Analysis Minor, graduating May 2027
+- 💻 Prev. AI SWE Intern @ Illumibot, SWE Intern @ DHA
+- 🤖 BreakThroughTech AI Fellow @ Cornell Tech 
+- 🚀 3x Hackathon Winnner
 - 📫 Let’s connect — I'm always open to learning & collaborating!
 
 ---
@@ -56,21 +56,12 @@
 ---
 
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryalsushant&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryalsushant&layout=compact&theme=radical" width="48%" />
-</p>
-
-
----
 
 ### 🌱 Currently Exploring
 
-- 💬 Data Structures and Algorithms using Python, Codepath TIP102
-- 🧠 AI Studio Project in collaboration with Cornell Tech & Partner Company
-- 🛠️ Honing full-stack dev with Next.js + Tailwind
+- 💬 ML Research under Dr. Andrew Sung
+- 🧠 Participatin in WiDS Datathon, Hacklytics 2025, and more
+- 🛠️ Looking for a Summer 2025 Internship (open to relocation)
 
 ---
 
@@ -81,6 +72,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryalsushant&theme=algolia&row=1&margin-w=15&no-frame=true" />
-</p>
+
