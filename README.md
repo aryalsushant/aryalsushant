@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 📚 CS Major, Economic Data Analysis Minor, graduating May 2027
-- 💻 Prev. AI SWE Intern @ Illumibot, SWE Intern @ DHA
+- 💻 Prev. AI SWE Intern @ Illumibot (Fall 2025), prev. SWE Intern @ DHA (Summer 2025)
 - 🤖 BreakThroughTech AI Fellow @ Cornell Tech 
 - 🚀 3x Hackathon Winnner
 - 📫 Let’s connect — I'm always open to learning & collaborating!
@@ -60,7 +60,7 @@
 ### 🌱 Currently Exploring
 
 - 💬 ML Research under Dr. Andrew Sung
-- 🧠 Participating in WiDS Datathon, Hacklytics 2025, and more
+- 🧠 Participating in WiDS Datathon, organizing Nepal-US Hackathon
 - 🛠️ Looking for a Summer 2026 Internship (open to relocation)
 
 ---
