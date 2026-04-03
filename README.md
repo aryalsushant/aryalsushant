@@ -60,7 +60,7 @@
 ### 🌱 Currently Exploring
 
 - 💬 ML Research under Dr. Andrew Sung
-- 🧠 Participating in WiDS Datathon, organizing Nepal-US Hackathon
+- 🧠 AI Engineer Intern @ Cayra.ai (Spring 2026)
 - 🛠️ Looking for a Summer 2026 Internship (open to relocation)
 
 ---
