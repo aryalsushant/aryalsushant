@@ -60,8 +60,8 @@
 ### 🌱 Currently Exploring
 
 - 💬 ML Research under Dr. Andrew Sung
-- 🧠 AI Engineer Intern @ Cayra.ai (Spring 2026)
-- 🛠️ Looking for a Summer 2026 Internship (open to relocation)
+- 🧠 AI Engineer Intern @ Gift of Life (Summer 2026)
+- 🛠️ Looking for a Fall 2026 Internship 
 
 ---
 
