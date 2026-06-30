@@ -12,8 +12,8 @@
 - 📚 CS Major, Economic Data Analysis Minor, graduating May 2027
 - 💻 Prev. AI SWE Intern @ Illumibot (Fall 2025), prev. SWE Intern @ DHA (Summer 2025)
 - 🤖 BreakThroughTech AI Fellow @ Cornell Tech 
-- 🚀 3x Hackathon Winnner
-- 📫 Let’s connect — I'm always open to learning & collaborating!
+- 🚀 4x Hackathon Winnner
+- 📫 Let’s connect! I'm always open to learning & collaborating!
 
 ---
 
