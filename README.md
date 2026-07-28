@@ -1,19 +1,22 @@
 <h1 align="center">Hey there, I'm Sushant Aryal 👋</h1>
+
 <p align="center">
   <em>CS @ USM • AI Engineer Intern @ GoL •  low cortisol </em><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=AI+Fellow+%7C+BreakThroughTech+%40+Cornell;Prioritizing+Creativity+in+Problem+Solving;Building+Ideas+Into+Production+%F0%9F%9A%80;Learning+Something+New+Every+Day" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryalsushant&label=PROFILE+VIEWS&color=00C3FF&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
 ### 🧑‍💻 About Me
-
 - 📚 CS Major, Economic Data Analysis Minor, graduating May 2027
 - 💻 Prev. AI SWE Intern @ Illumibot (Fall 2025), prev. SWE Intern @ DHA (Summer 2025)
-- 🤖 BreakThroughTech AI Fellow @ Cornell Tech 
-- 🚀 4x Hackathon Winnner
-- 📫 Let’s connect! I'm always open to learning & collaborating!
+- 🤖 BreakThroughTech AI Fellow @ Cornell Tech
+- 🚀 4x Hackathon Winner
+- 📫 Let's connect! I'm always open to learning & collaborating!
 
 ---
 
@@ -24,12 +27,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -55,21 +56,15 @@
 
 ---
 
-
-
 ### 🌱 Currently Exploring
-
 - 💬 ML Research under Dr. Andrew Sung
 - 🧠 AI Engineer Intern @ Gift of Life (Summer 2026)
-- 🛠️ Looking for a Fall 2026 Internship 
+- 🛠️ Looking for a Fall 2026 Internship
 
 ---
 
 ### 📬 Get in Touch!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushant-aryal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushant.aryal@usm.edu)
 
 ---
-
-
